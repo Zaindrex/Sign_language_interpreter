@@ -148,4 +148,4 @@ See `requirements.txt` for all dependencies. Key packages:
 
 ## License
 
-MIT License (or specify your license here)
+This project is licensed under the MIT License.
