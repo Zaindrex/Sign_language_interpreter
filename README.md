@@ -23,7 +23,8 @@ A real-time sign language interpreter using computer vision and deep learning. T
 ├── requirements.txt              # Python dependencies
 ├── training_data/                # Stores .npy files for each word's samples
 ├── words.json                    # List of recognized words
-├── index_to_word.npy, word_to_index.npy # Word-index mappings
+├── index_to_word.npy             # Word-index mappings
+├── word_to_index.npy             # Word-index mappings
 ├── training_history.png/json     # Training progress and metrics
 └── README.md                     # Project documentation
 ```
