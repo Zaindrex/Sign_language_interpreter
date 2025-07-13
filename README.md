@@ -16,7 +16,7 @@ A real-time sign language interpreter using computer vision and deep learning. T
 
 ```
 .
-├── sign_language_interpreter.py   # Main interpreter (run this to start)
+├── sign_language_interpreter.py  # Main interpreter (run this to start)
 ├── collect_data.py               # Tool for collecting new sign data
 ├── train_model.py                # Script to train or retrain the model
 ├── best_model.h5                 # Pre-trained model (updated after training)
